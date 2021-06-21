@@ -1,0 +1,11 @@
+.revenue-statement{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+    
+}
+.chart, .profit {
+    background-color: #fff;
+    padding: 10px;
+    
+}

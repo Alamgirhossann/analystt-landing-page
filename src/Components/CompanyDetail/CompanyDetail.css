@@ -1,0 +1,14 @@
+.grid-style{
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr 2fr;
+    grid-column-gap: 5px;
+    background-color: #fff;
+    padding: 10px;
+}
+.hastag{
+    display: flex;
+}
+.hastag p {
+    margin-right: 25px;
+}
+

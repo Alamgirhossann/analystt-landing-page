@@ -1,0 +1,11 @@
+.pros-cons{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+}
+.pros, .cons {
+    background-color: #fff;
+    padding: 10px;
+    overflow-y: scroll;
+}
+

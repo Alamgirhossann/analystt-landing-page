@@ -1,0 +1,35 @@
+.brandDetail-div{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-areas: 
+    "f fv fv fv c c c l l d d d"
+    ;
+    grid-column-gap: 15px;
+    background: #fff;
+}
+.flipkart{
+    grid-area: f;
+} 
+.flipkart img{
+    width: 5rem;
+}
+.flipkart-private{
+    grid-area: fv;
+}
+.company-num{
+    grid-area: c;
+}
+.link-area{
+    grid-area: l;
+    
+}
+.download{
+    grid-area: d;
+}
+.flipkart p {
+    color: blue;
+}
+.download{
+    padding-right: 25px;
+}
+

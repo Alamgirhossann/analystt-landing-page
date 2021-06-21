@@ -1,0 +1,13 @@
+.competitor-div{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-column-gap: 10px;
+}
+.competitors-ratio{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.wrap-div{
+    background-color: #fff;
+    padding: 10px;
+}

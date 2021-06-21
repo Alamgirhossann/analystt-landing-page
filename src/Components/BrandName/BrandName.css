@@ -1,0 +1,30 @@
+@media (max-width: 575.98px) { 
+    .align{
+        text-align: center;
+        line-height: 10px;
+        width: 100%;  
+        margin-top: 15px; 
+    }
+    .logo-align{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+ }
+ .userIcon{
+     font-size: 20px;
+     padding-bottom: 10px;
+ }
+ .cartIcon{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.brand-div{
+    background-color: #FFFFFF;
+}
+.user-img{
+    height:3rem;
+    width:3rem;
+    border-radius: 50%;
+}
